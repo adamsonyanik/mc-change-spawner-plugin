@@ -1,0 +1,4 @@
+name: ChangeSpawner
+version: 1.0
+main: io.github.adamson.MCChangeSpawner
+api-version: 1.19
